@@ -47,7 +47,13 @@
     width: 100%;
     max-width: 1000px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+}
+
+.footer-links-row {
+    display: flex;
+    flex-direction: row;
 }
 
 .footer-link-wrapper {
@@ -75,7 +81,7 @@
 .footer-link-items a {
     color: #fff;
     text-decoration: none;
-    margin-bottom: 8px;
+    margin-bottom: 0.5rem;
 }
 
 .footer-link-items a:hover {
@@ -84,7 +90,7 @@
 }
 
 .footer-email-form h2 {
-    margin-bottom: 32px;
+    margin-bottom: 2rem;
 }
 
 .footer-input::placeholder {
