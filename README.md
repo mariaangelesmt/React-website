@@ -38,25 +38,25 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### Home
 
-<img src="./src/assets/screenshots/home1.png" width="400" title="home page">
+<img src="./src/assets/screenshot/home1.png" width="400" title="home page">
 
-<img src="./src/assets/screenshots/home2.png" width="400" title="home page">
+<img src="./src/assets/screenshot/home2.png" width="400" title="home page">
 
 ### Services
 
-<img src="./src/assets/screenshots/services.png" width="400" title="home page">
+<img src="./src/assets/screenshot/services.png" width="400" title="home page">
 
 ### Products
 
-<img src="./src/assets/screenshots/products.png" width="400" title="home page">
+<img src="./src/assets/screenshot/products.png" width="400" title="home page">
 
 ### Sign Up 
 
-<img src="./src/assets/screenshots/singup.png" width="400" title="home page">
+<img src="./src/assets/screenshot/singup.png" width="400" title="home page">
 
-## Footer
+### Footer
 
-<img src="./src/assets/screenshots/footer.png" width="400" title="home page">
+<img src="./src/assets/screenshot/footer.png" width="400" title="home page">
 
 
 
